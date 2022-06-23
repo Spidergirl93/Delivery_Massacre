@@ -5,8 +5,8 @@ using UnityEngine;
 public class Truck : MonoBehaviour
 {
 
-    [SerializeField] float steerSpeed = 1f;
-    [SerializeField] float moveSpeed = 1f;
+    [SerializeField] float steerSpeed = 50f;
+    [SerializeField] float moveSpeed = 5f;
 
     // Start is called before the first frame update
     void Start()

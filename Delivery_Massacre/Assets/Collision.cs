@@ -7,4 +7,8 @@ public class Collision : MonoBehaviour
     void OnCollisionEnter2D(Collision2D other) {
         Debug.Log("Hello, I collided!");
     }
+
+    void OnTriggerEnter2D(Collider2D other) {
+        Debug.Log("Yeay!");
+    }
 }

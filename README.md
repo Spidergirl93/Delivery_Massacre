@@ -6,7 +6,7 @@ When you have to deliver goods no matter what...
 
 Are you hungry? Are you tired of waiting for your food being delivered like 5 hours after you order? Here is the solution! Delivery Massacre service delivers your orders in less than 5 minutes guaranteed. 
 
-<img src='./Teaser_Material/teaser.gif' width="40" height="40" />
+<img src='./Teaser_Material/teaser.gif' width="1200" height="1200" />
 
 # Status
 Under developemnt...

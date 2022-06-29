@@ -19,7 +19,7 @@ public class Truck : MonoBehaviour
     {
         float steerAmount = Input.GetAxis("Horizontal") * steerSpeed * Time.deltaTime;
         float steerDirection = Input.GetAxis("Vertical") * moveSpeed * Time.deltaTime;
-        if (steerDirection > 0f)
+        if (steerDirection >= 0)
         {
             steerAmount = steerAmount * (-1);
         }
